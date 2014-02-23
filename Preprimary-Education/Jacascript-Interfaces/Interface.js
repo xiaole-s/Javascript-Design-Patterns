@@ -1,5 +1,4 @@
 
-
 // Constructor.
 //接口类的构造器函数，构造函数在继承中讲解
 var Interface = function(name, methods) {
@@ -45,3 +44,4 @@ Interface.ensureImplements = function(object) {
         }
     } 
 };
+
