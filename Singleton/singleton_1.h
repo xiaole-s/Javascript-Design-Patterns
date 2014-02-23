@@ -1,3 +1,4 @@
+//对应的C++ Singleton实现
 //Singleton 
 //1.
 //
