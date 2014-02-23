@@ -1,3 +1,4 @@
+//对应的C++ Singleton实现
 #include "stdafx.h"
 #include "Singleton.h"
 
