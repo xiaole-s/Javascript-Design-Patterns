@@ -7,3 +7,4 @@ Function.prototype.method = function(name, fn) {
     return this;
 };
 
+
